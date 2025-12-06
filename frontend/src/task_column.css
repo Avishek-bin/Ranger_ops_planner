@@ -1,0 +1,23 @@
+section{
+    padding: 15px 30px;
+    display: flex;
+    justify-content: space-between;
+    flex-grow: 1;
+    gap: 20px;
+}
+
+.task_column{
+    color: #fff;
+    background-color: #111;
+    opacity: 0.8;
+    flex-grow: 1;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.heading{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
